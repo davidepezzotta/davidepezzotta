@@ -1,18 +1,18 @@
-### Hi there, I'm Luca Verdi 👋 
+### Hi there, I'm Davide Pezzotta 👋 
 
 ---
 
 
-## I'm a Student, Maker and Developer!!
+## I'm a Student and a Developer!!
 
 - 📚 I'm a student from I.T.I. G. MARCONI Dalmine
 - 📍 I'm from Bergamo, in Italy
 - 👨🏼‍💻 I love to create and develop projects with my project mates
-- 🥅 2021 and 2022 Goals: Finish two huge projects under development 
-- ⚡ Fun fact: I love cars and technology
+- 🥅 2021/2023 Goals: Finish two huge projects under development and open an agency with my friend
+- ⚡ Fun fact: i love develop, manga and food (but at the moment i'm too poor for the last 2)
 
 ---
-[![Luca Verdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=verdiluca&show_icons=true&theme=yeblu)](https://github.com/verdiluca/github-readme-stats)
+[![Davide Pezzotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidepezzotta&show_icons=true&theme=yeblu)](https://github.com/davidepezzotta/github-readme-stats)
 
 
 ---
@@ -23,11 +23,8 @@
 
 ● C <br />
 ● C++ <br />
-● Lua <br />
 ● HTML 5 <br />
-● CSS 3 <br />
 ● GitHub <br />
-● Atom <br />
 ● Mbed Studio <br />
 ● Visual Studio Code 
 
