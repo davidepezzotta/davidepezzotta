@@ -12,7 +12,7 @@
 - ⚡ Fun fact: i love develop, manga and food (but at the moment i'm too poor for the last 2)
 
 ---
-[![Davide Pezzotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidepezzotta&show_icons=true&theme=yeblu)](https://github.com/davidepezzotta/github-readme-stats)
+[![Davide Pezzotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidepezzotta&show_icons=true&theme=chartreuse-dark)](https://github.com/davidepezzotta/github-readme-stats)
 
 
 ---
